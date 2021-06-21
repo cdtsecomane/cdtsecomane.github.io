@@ -26,7 +26,8 @@ For further details, refer to the [CfP](/cfp) and [Program](/prog)
 * [Jorge Maestre Vidal](https://www.indracompany.com) (Indra, Digital Labs (Madrid, Spain))
 * [Salvador Llopis Sanchez](https://www.upv.es) (Department of Communications, Universitat Politecnica de Valencia, (Valencia, Spain))
 * [Nicolai Stoianov](https://di.mod.bg/en) (Bulgarian Defence Institute (Sofia, Bulgaria))
-* [Marco Antonio Sotelo Monge](https://www.umu.es) (Department of Information and Communications Engineering, University of Murcia, (Murcia, Spain))
+* [Marco Antonio Sotelo Monge](https://www.indracompany.com) (Indra, Digital Labs (Madrid, Spain))
+* [Gregorio Martínez Perez](https://www.umu.es) (Department of Information and Communications Engineering, University of Murcia, (Murcia, Spain))
 
 ### Program Committee Chairs (preliminary, to be extended further)
 
