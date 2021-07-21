@@ -40,6 +40,6 @@ environment
 ## Submissions
 
 ## Important Dates
-* Submission deadline: July 31, 2021
-* Notification to authors: August 15, 2021
-* Camera-ready versions: September 06, 2021
+* Submission deadline: August 31, 2021
+* Notification to authors: September 7, 2021
+* Camera-ready versions: September 15, 2021
