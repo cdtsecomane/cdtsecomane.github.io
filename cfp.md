@@ -38,6 +38,7 @@ environment
 ## Submission Guidelines & Types of Papers
 
 ## Submissions
+Papers may be submitted into our [Platfom](https://easychair.org/conferences/?conf=cdtsecomane2021)
 
 ## Important Dates
 * Submission deadline: August 31, 2021
