@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-*ESORICS 2021 will be held as a virtual event on October 04–08, 2021. For further details, please refer to [ESORICS 2021 main page](https://esorics2021.athene-center.de/index.php)*
+*ESORICS 2021 will be held as a virtual event on October 08, 2021. For further details, please refer to [ESORICS 2021 main page](https://esorics2021.athene-center.de/index.php)*
 # About the Workshop
 According to the new EU’s Cybersecurity Strategy for the Digital Decade, in the next years
 will be critical to build operational capacity to prevent, deter and respond to cyber threats,

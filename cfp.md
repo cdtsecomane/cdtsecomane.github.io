@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-*ESORICS 2021 will be held as a virtual event on October 04–08, 2021. For further details, please refer to [ESORICS 2021 main page](https://esorics2021.athene-center.de/index.php)*
+*ESORICS 2021 will be held as a virtual event on October 08, 2021. For further details, please refer to [ESORICS 2021 main page](https://esorics2021.athene-center.de/index.php)*
 
 # Call for Papers
 
@@ -38,8 +38,9 @@ environment
 ## Submission Guidelines & Types of Papers
 
 ## Submissions
+Papers may be submitted into our [Platfom](https://easychair.org/conferences/?conf=cdtsecomane2021)
 
 ## Important Dates
-* Submission deadline: July 31, 2021
-* Notification to authors: August 15, 2021
-* Camera-ready versions: September 06, 2021
+* Submission deadline: September 5, 2021 (<strike>August 31, 2021</strike>)
+* Notification to authors: September 7, 2021
+* Camera-ready versions: September 15, 2021
