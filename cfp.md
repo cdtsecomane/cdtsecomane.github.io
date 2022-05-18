@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-*ESORICS 2021 will be held as a virtual event on October 04–08, 2021. For further details, please refer to [ESORICS 2021 main page](https://esorics2021.athene-center.de/index.php)*
+*ESORICS 2022 will be held as a virtual event on September 26–30, 2022. For further details, please refer to [ESORICS 2022 main page](https://esorics2022.compute.dtu.dk)*
 
 # Call for Papers
 
