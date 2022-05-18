@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-*ESORICS 2021 will be held as a virtual event on October 08, 2021. For further details, please refer to [ESORICS 2021 main page](https://esorics2021.athene-center.de/index.php)*
+*ESORICS 2022 will be held as a virtual event on September 26–30, 2022. For further details, please refer to [ESORICS 2022 main page](https://esorics2022.compute.dtu.dk)*
 # About the Workshop
 According to the new EU’s Cybersecurity Strategy for the Digital Decade, in the next years
 will be critical to build operational capacity to prevent, deter and respond to cyber threats,
@@ -23,11 +23,12 @@ For further details, refer to the [CfP](/cfp) and [Program](/prog)
 ## Organizers
 ### General Chairs
 
-* [Jorge Maestre Vidal](https://www.indracompany.com) (Indra, Digital Labs (Madrid, Spain))
-* [Salvador Llopis Sanchez](https://www.upv.es) (Department of Communications, Universitat Politecnica de Valencia, (Valencia, Spain))
-* [Nicolai Stoianov](https://di.mod.bg/en) (Bulgarian Defence Institute (Sofia, Bulgaria))
-* [Marco Antonio Sotelo Monge](https://www.indracompany.com) (Indra, Digital Labs (Madrid, Spain))
-* [Gregorio Martínez Perez](https://www.umu.es) (Department of Information and Communications Engineering, University of Murcia, (Murcia, Spain))
+* [Jorge Maestre Vidal](https://www.indracompany.com) - Indra (Madrid, Spain)
+* [Salvador Llopis Sanchez](https://www.upv.es) - Department of Communications, Universitat Politecnica de Valencia (Valencia, Spain)
+* [Nicolai Stoianov](https://di.mod.bg/en) - Bulgarian Defence Institute (Sofia, Bulgaria)
+* [Marco Antonio Sotelo Monge](https://www.indracompany.com) - Indra (Madrid, Spain)
+* [Gregorio Martínez Perez](https://www.umu.es) - Department of Information and Communications Engineering, University of Murcia, (Murcia, Spain)
+* [Marta García Cid](https://www.indracompany.com) - Indra (Madrid, Spain)
 
 ### Program Committee Chairs (preliminary, to be extended further)
 
@@ -39,7 +40,6 @@ For further details, refer to the [CfP](/cfp) and [Program](/prog)
 * [Victor Villagrá González](https://www.upm.es) (Universidad Politécnica de Madrid, (Madrid, Spain))
 * [Giovanni Comande](https://www.santannapisa.it) (Scuola Superiore Sant'Anna, (Pisa, Italy))
 * [Sergio Mauricio Martínez Monterrubio](https://www.unir.net) (Universidad Internacional de la Rioja (Logroño, Spain))
-* [Alberto Huertas Celdran](https://www.wit.ie/) (Waterford Institute of Technology, (Waterford, Ireland))
 * [Alberto Huertas Celdran](https://www.wit.ie/) (Waterford Institute of Technology, (Waterford, Ireland))
 * [Rumen Daton Medenou](https://www.indracompany.com) (Indra, Digital Labs (Madrid, Spain))
 * [Lorena Isabel Barona López](https://www.epn.edu.ec/) (Department of Informatics and Computer Science, Escuela Politécnica Nacional (Quito, Ecuador))
