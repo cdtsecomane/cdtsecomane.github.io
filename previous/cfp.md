@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-*ESORICS 2022 will be held as a virtual event on September 26–30, 2022. For further details, please refer to [ESORICS 2022 main page](https://esorics2022.compute.dtu.dk)*
+*ESORICS 2021 will be held as a virtual event on October 08, 2021. For further details, please refer to [ESORICS 2021 main page](https://esorics2021.athene-center.de/index.php)*
+
 # Call for Papers
 
 The increasingly digitalization of the public and private sectors emphasizes the reliance on
@@ -40,6 +41,6 @@ environment
 Papers may be submitted into our [Platfom](https://easychair.org/conferences/?conf=cdtsecomane2021)
 
 ## Important Dates
-* Submission deadline: September 2, 2022
-* Notification to authors: September 9, 2022
+* Submission deadline: September 5, 2021 (<strike>August 31, 2021</strike>)
+* Notification to authors: September 7, 2021
 * Camera-ready versions: September 15, 2021
