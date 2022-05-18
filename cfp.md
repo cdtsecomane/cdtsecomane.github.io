@@ -41,6 +41,6 @@ environment
 Papers may be submitted into our [Platfom](https://easychair.org/conferences/?conf=cdtsecomane2021)
 
 ## Important Dates
-* Submission deadline: September 2, 2022 (<strike>August 31, 2021</strike>)
+* Submission deadline: September 2, 2022
 * Notification to authors: September 9, 2022
 * Camera-ready versions: September 15, 2021
