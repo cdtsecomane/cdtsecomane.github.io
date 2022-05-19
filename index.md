@@ -11,7 +11,7 @@ field of secure communications notably at the network edge evidences a necessary
 and synchronization to balance common interests and dual use endeavours.
 In this context, nowadays most of the EU cybersecurity and cyber defence forums are not
 cross-sectorial and therefore it is difficult to find dual-use related discussions to engage the
-civil and military research community. The 1st International Workshop on Cyber Defence
+civil and military research community. The 2nd International Workshop on Cyber Defence
 Technologies and Secure Communications at the Network Edge (CDT & SECOMANE) aims
 to close this gap by opening a forum were both communities exchange information for a mutual
 benefit. Hence the ESORICS community could openly contribute and participate at cyber
