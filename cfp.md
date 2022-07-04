@@ -37,7 +37,7 @@ environment
 ## Submission Guidelines & Types of Papers
 
 ## Submissions
-Papers may be submitted into our [Platfom](https://easychair.org/my/login_author?sum=8e5e9f525469f8d20a9412910b39de32;conference=271963)
+Papers may be submitted into our [Platfom](https://easychair.org/cfp/cdt_secomane2022)
 
 ## Important Dates
 * Submission deadline: September 2, 2022
